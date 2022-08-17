@@ -1,2 +1,5 @@
 # book-app
-## clone Repo
+### clone Repo
+### cd book-app
+### npm i
+### npm start
